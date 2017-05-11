@@ -30,3 +30,13 @@ some text etc
 	
 14. [Cloud Security Principle 14: Secure use of the service](#principle14)
 
+## Details ##
+<p>
+<a name="principle1"></a>
+1. User data transiting networks should be adequately protected against tampering and eavesdropping. 
+</p>
+
+<p>
+<a name="principle2"></a>
+2. User data, and the assets storing or processing it, should be protected against physical tampering, loss, damage or seizure.
+</p>
