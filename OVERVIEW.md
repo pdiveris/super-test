@@ -1,4 +1,4 @@
-#Implementing the Cloud Security Principles#
+# Implementing the Cloud Security Principles #
 
 1. [Cloud Security Principle 1: Data in transit protection](#principle1)
 
@@ -28,7 +28,7 @@
 	
 14. [Cloud Security Principle 14: Secure use of the service](#principle14)
 
-##Details##
+## Details ##
 <p>
 <a name="principle1"></a>
 1. User data transiting networks should be adequately protected against tampering and eavesdropping. 
@@ -78,4 +78,5 @@
 
 <a name="principle14"></a>
 14. The security of cloud services and the data held within them can be undermined if you use the service poorly. Consequently, you will have certain responsibilities when using the service in order for your data to be adequately protected.
+
 
